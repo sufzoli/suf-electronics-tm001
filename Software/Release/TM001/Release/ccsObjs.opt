@@ -1,0 +1,1 @@
+"./textconv.obj" "./systime.obj" "./pcf8576_lcd35.obj" "./measure_battery.obj" "./main.obj" "./i2c_usi.obj" "./MCP9808.obj" -l"libc.a" "../lnk_msp430g2230.cmd" 
