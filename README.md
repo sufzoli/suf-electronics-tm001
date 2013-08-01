@@ -1,4 +1,4 @@
-suf-elektronics-tm001
+suf-electronics-tm001
 =====================
 
 MSP430 Based Simple Thermometer
